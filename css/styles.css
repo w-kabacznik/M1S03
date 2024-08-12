@@ -1,0 +1,48 @@
+header {
+    background-color: #ffb74d;
+}
+
+h1 {
+    color: #FF8F00;
+}
+
+a{
+    color: #FF8F00 !important;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.text-red {
+    color: #fe5a0b !important;
+}
+
+.max-width-60-rem {
+    max-width: 60rem;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.bg-orange {
+    background-color: #FF8F00;
+}
+
+.text-white {
+    color: white;
+}
+
+.container-bemvindo1 {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        width: 90%;
+    }
+
+    .alinhandoesquerda {
+        text-align: left; 
+    }
